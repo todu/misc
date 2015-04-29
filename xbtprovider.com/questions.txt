@@ -15,19 +15,19 @@ Från Avanzas kontobeskrivning:
 05. Kommer man kunna handla med fonden direkt via Swedbank?
 06. Swedbank tillåter inte idag att deras kunder skickar fiat-pengar till och från bitcoin exchanges och "allt som har med bitcoin att göra". Hur ser Swedbank på transaktioner som har med dessa bitcoin-certifikat att göra? Kommer de helt säkert tillåtas?
 07. Vad är egentligen skillnaderna mellan Winkelvoss-tvillingarnas framtida bitcoin-ETF (COIN) och den här nya XBT Provider-ETN:en?
-09. Jag läste att KnCGroup AB äger XBT Provider AB, men på ratsit* är det tomt vid "Koncernmoder" och "Moderbolag". Hur kan det vara det?
+08. Jag läste att KnCGroup AB äger XBT Provider AB, men på ratsit* är det tomt vid "Koncernmoder" och "Moderbolag". Hur kan det vara det?
 *http://www.ratsit.se/5590013313-XBT_Provider_AB_publ
-10. Vad händer om KnCGroup AB går i konkurs? Kommer XBT Provider AB automatiskt gå i konkurs då också? Kommer mina fondandelar bli värda 0 SEK då?
-11. Vad händer om XBT Provider AB går i konkurs? Kommer mina fondandelar bli värda 0 SEK då? Eller finns det någon form av försäkring liknande en insättningsgaranti som tex Nordeas personkonton har?
-12. Det finns många missnöjda kunder till KnC Miner-företaget (uteblivna / defekta leveranser) och som jag ser det finns en risk (jag är inte särskilt insatt eftersom jag inte köpt miningutrustning från dem) att det företaget kommer tvingas betala så mycket i böter så det går i konkurs. Finns det någonsomhelst risk för att en sådan konkurs kommer dra med sig XBT Provider-företaget om det värsta skulle hända? Det är ju samma personer som är med i ledningen för båda företagen.
-13. Är delar eller hela ert förvar av bitcoin försäkrade? Till hur stor del är de i så fall försäkrade? Vilket försäkringsbolag försäkrar er i så fall? Vilka händelser är ni försäkrade emot?
-14. Hur kommer ni förvara era bitcoin rent tekniskt? "Multisig"? Vilka hos er kommer ha tillgång till de privata nycklarna? Tex bara fem personer eller hela er IT-avdelning?
-15. Kommer vi svenskar kunna placera delar av vår pension i er fond?
-16. Kommer Avanza att ta ut courtage-avgifter när man köper och säljer XBT Provider-ETN:en sen? Såhär skriver de på Avanza: "Om du bara handlar med fonder behöver du inte bry dig om courtageklasser då vi inte tar ut något courtage vid fondhandel. Handlar du däremot med andra värdepapper så som aktier, derivat och börshandlade produkter, blir courtageavgifterna aktuella för dig."
+09. Vad händer om KnCGroup AB går i konkurs? Kommer XBT Provider AB automatiskt gå i konkurs då också? Kommer mina fondandelar bli värda 0 SEK då?
+10. Vad händer om XBT Provider AB går i konkurs? Kommer mina fondandelar bli värda 0 SEK då? Eller finns det någon form av försäkring liknande en insättningsgaranti som tex Nordeas personkonton har?
+11. Det finns många missnöjda kunder till KnC Miner-företaget (uteblivna / defekta leveranser) och som jag ser det finns en risk (jag är inte särskilt insatt eftersom jag inte köpt miningutrustning från dem) att det företaget kommer tvingas betala så mycket i böter så det går i konkurs. Finns det någonsomhelst risk för att en sådan konkurs kommer dra med sig XBT Provider-företaget om det värsta skulle hända? Det är ju samma personer som är med i ledningen för båda företagen.
+12. Är delar eller hela ert förvar av bitcoin försäkrade? Till hur stor del är de i så fall försäkrade? Vilket försäkringsbolag försäkrar er i så fall? Vilka händelser är ni försäkrade emot?
+13. Hur kommer ni förvara era bitcoin rent tekniskt? "Multisig"? Vilka hos er kommer ha tillgång till de privata nycklarna? Tex bara fem personer eller hela er IT-avdelning?
+14. Kommer vi svenskar kunna placera delar av vår pension i er fond?
+15. Kommer Avanza att ta ut courtage-avgifter när man köper och säljer XBT Provider-ETN:en sen? Såhär skriver de på Avanza: "Om du bara handlar med fonder behöver du inte bry dig om courtageklasser då vi inte tar ut något courtage vid fondhandel. Handlar du däremot med andra värdepapper så som aktier, derivat och börshandlade produkter, blir courtageavgifterna aktuella för dig."
 ETF = Exchange Traded Fund, och ETN = Exchange Traded Note. Kallas dessa "börshandlad produkt" på svenska? För i så fall tar Avanza courtage-avgift på XBT Provider-produkten sen eftersom det är en "ETN".
-17. Är avgiften 2,5 % per år, och 0,16 % per trade som man gör?
+16. Är avgiften 2,5 % per år, och 0,16 % per trade som man gör?
 
-18. På Reddit skrev någon: 
+17. På Reddit skrev någon: 
 
 "Friendly reminder: Lehman Brothers + ETN = financial collapse.
 
@@ -38,6 +38,6 @@ Very risky investment."
 
 Har den personen rätt? Är det alltså inte till 100 % priset på bitcoin till (exempelvis) bitpay.com-kurs som styr värdet på en fondandel?
 
-19. Kommer det gå att se "bevis" på att ni har 100 % reserver och inte kör "fractional reserve banking", tex genom att titta på en offentlig cold storage bitcoinadress via blockchain.info?
+18. Kommer det gå att se "bevis" på att ni har 100 % reserver och inte kör "fractional reserve banking", tex genom att titta på en offentlig cold storage bitcoinadress via blockchain.info?
 
 Jag vet att det är många frågor så ni kan ta god tid på er att besvara dem ifall det behövs, och jag lovar att dela med mig av era svar till bekanta som också håller på med bitcoin så ni slipper i alla fall några fall där flera personer frågar er samma sak.
