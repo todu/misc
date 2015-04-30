@@ -1,0 +1,77 @@
+Hej Johan,
+
+Tack för snabbt och informativt svar trots extrem arbetsbelastning. Jag ser fram emot en framtida komplettering av svaren och delar med mig av de nuvarande svaren till mina bekanta tills vidare, samt lovar uppdatera dem med dina framtida kompletteringar.
+
+Tills vidare önskar jag dig och dina arbetskamrater god lycka och framgång i den spännande nya teknologin!
+
+-- 
+Best regards,
+
+Tomislav Dugandzic
+My homepage
+
+
+2015-04-30 15:15 GMT+02:00 Johan <@xbtprovider.com>:
+
+    Hej Tomislav,
+
+     
+
+    Tack för dina frågor. Vi har extrem arbetsbelastning just nu men jag kommer återkomma snarast med fler svar på dina frågor. 
+    Jag kan se direkt att vissa av frågorna måste besvaras av din mäklare och instrumentet skall behandlas på samma sätt som andra Certifikat som redan är noterade ur beskattningssynpunkt och beträffande om de kan handlas på ISK. 
+    Man kan handla med instrumentet via alla medlemmar på Nasdaq i Stockholm, därmed även Swedbank. 
+    Eftersom detta är vanliga Certifikat som clearas av Euroclear så har jag mycket svårt att tro att någon bank har några synpunkter på eller troligen ens möjlighet att undanta den från handel. 
+    XBT Provider är ett fristående aktiebolag som inte går i konkurs pga vad som händer i moderbolaget. 
+    De utgör bara en extra trygghet eftersom de garanterar produkten, KnC går dessutom bra även på nuvarande bitcoin priser. 
+    Bolagets regelverk, vilket kontrolleras av Compliance officer och risk management, samt externt kontrolleras av Nasdaq och revisorer stipulerar att vi måste hedga all marknadsrisk omedelbart. 
+    Vi håller på att fundera över olika sätt att bevisa vilka tillgångar vi har (utan att avslöja information som riskerar tillgångarna), vår policy för förvaring av bitcoins ligger underst i mailet. 
+    Det är sant att en ETN har motpartsrisk men XBT Provider bedriver ingen riskabel verksamhet och hedgar 100% av alla åtaganden (som certifikaten), moderkoncernen har dessutom ett starkt cash-flow, mycket låg brek-even för miningen och en ny generation miners snart i drift. 
+    Aktiva riskkapital ägare som Accel Partners och Creandum borgar också för god tillgång till riskkapital och en hög nivå på ”corporate governance”.  
+    Jag är inte insatt i eventuella tvister som KnC är inblandade i annat än att jag vet att oavsett utfall handlar det totalt om mycket små belopp relaterat till bolagets tillgångar.
+
+     
+
+    Återkommer så fort tid ges
+
+     
+
+    Mvh/Johan
+
+     
+
+     
+
+     
+
+     
+
+    Policy for safekeeping of bitcoin assets of XBT Provider
+
+    In order to safe keep bitcoin assets, the board of XBT Provider have decided on a secure multi-layer process for handling and safekeeping bitcoins.
+
+    In order to hedge exposure to the returns of bitcoin, XBT Provider will hold bitcoins. A small part of the holdings can be kept on bitcoin exchanges, if deemed necessary additional coins can be held on a multi-signature hot wallet and all holdings over a threshold must be kept in safe storage according to the limit and methods disclosed below. All changes to this policy must be approved by the board.
+
+     
+
+    Limits
+
+    ·         Assets kept on individual bitcoin exchanges cannot be in excess of 1000 btc.
+
+    ·         The total of assets kept on exchanges cannot exceed 4000 btc
+
+    ·         The total of assets kept on exchanges and internal multi-signature hot-wallets cannot exceed 6000 btc or 10% of assets, whichever is largest. All remaining assets must be kept in safe storage.
+
+    ·         At least 90 percent of bitcoin assets (except if assets are very small as defined above)) must be kept in safe storage.
+
+     
+
+    Safe Storage
+
+    At the latest when the above mentioned limits are reached XBT Provider will send bitcoin holdings to its safe Bitcoin address using P2SH (Pay to script hash) transactions. 
+    This way the company can send funds easily to a safe address while not disclosing any information regarding the receiving address or security precautions surrounding the private or public keys related to the address.
+
+     
+
+    In order to access bitcoins on the secure address at least three out of five private keys needs to be used in conjunction in order to access any funds. 
+    Private keys will be kept at devices built specifically in order to store private keys in a safe way. 
+    The devices are also protected with a pin-code. The devices will be held by key shareholders and company executives separately in separate bank vaults.
